@@ -13,9 +13,9 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.image import MIMEImage  # Import pour les images
 
 # --- Configuration mail ---
-EMAIL_ADDRESS = "chaimajouini59@gmail.com"
+EMAIL_ADDRESS = "email"
 EMAIL_PASSWORD = "drdndrumsrzxdvtg"  # Mot de passe application Gmail recommandé
-EMAIL_RECEIVER = "chaimajouini59@gmail.com"
+EMAIL_RECEIVER = "email"
 
 # --- Chemin pour les images inconnues temporaires ---
 UNKNOWN_FACES_TEMP_DIR = "unknown_faces_temp"
